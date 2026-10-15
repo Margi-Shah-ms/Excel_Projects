@@ -79,6 +79,25 @@ Below is the complete reference of all formulas, functions, and logic implemente
 <p align="center">
   <img src="https://img.shields.io/badge/🖼️_WORKBOOK_SCREENSHOTS-OUTPUT-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Screenshots Sticker" />
 </p>
+### 🎓 Students Grade Worksheet
+
+| 📊 Worksheet Output | 🧮 Formulas View |
+| :---: | :---: |
+| ![Students Grade Output](<img width="868" height="492" alt="image" src="https://github.com/user-attachments/assets/1987eaa7-a660-4cf0-9d21-756a9cf77563" />
+) | ![Students Grade Output](<img width="473" height="316" alt="image" src="https://github.com/user-attachments/assets/9ee05448-f1f6-4a29-bba3-78bf5bdfdc77" />
+) |
+
+### 💼 Sales Data Worksheet
+
+| 📊 Output View | 🧮 Formulas View |
+| :---: | :---: |
+| ![Sales Data Output](<img width="1060" height="432" alt="image" src="https://github.com/user-attachments/assets/542a7c63-d6df-470e-8192-5e32b159285a" />
+) | ![Sales Data Output](<img width="1078" height="274" alt="image" src="https://github.com/user-attachments/assets/44a0adc4-7318-45b8-b0c1-05096c6ca5c8" />
+) |
+### 👥 Employee Data Worksheet
+
+![Employee Data Output](<img width="1001" height="462" alt="image" src="https://github.com/user-attachments/assets/1f74a368-4902-4e1a-b0f5-d844028e7fff" />
+)
 
 ## 🗂️ Topics Covered
 
