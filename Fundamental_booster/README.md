@@ -15,6 +15,71 @@
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🧮_FORMULAS_&_EXPRESSIONS-APPLIED-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Formulas Sticker" />
+</p>
+
+## 🧮 Comprehensive Formulas & Functions Reference
+
+Below is the complete reference of all formulas, functions, and logic implemented across the three primary worksheets.
+
+---
+
+### 1. 🎓 Sheet 1: Students Grade
+
+| Task / Analysis | Formula Applied | Function Category | Output / Description |
+| :--- | :--- | :--- | :--- |
+| **Total Marks** | `=SUM(C2:E2)` | Math | Sums Math, Science & English marks |
+| **Grade Classification** | `=IF(G2>=250, "A", IF(G2>=200, "B", "C"))` | Nested IF | Classifies grades into A, B, or C based on total |
+| **Pass/Fail Status** | `=IF(G2>=180, "Pass", "Fail")` | Logical IF | Checks pass status (Threshold >= 180) |
+| **Score Threshold (>80)**| `=IF(G2>240, TRUE, FALSE)` | Boolean Logic | Returns `TRUE` if student scores above 80% average |
+| **Average Score** | `=AVERAGE(C2:E2)` | Statistical | Calculates overall subject average per student |
+| **Conditional Average** | `=AVERAGEIF(L2:L21, ">60")` | Conditional Avg | Calculates average score for students scoring above 60 |
+| **Count Above 60** | `=COUNTIF(C2:C21, ">60")` | COUNTIF | Counts students with Math score > 60 |
+| **Text Upper Case** | `=UPPER(B2)` | Text | Converts student name to uppercase (`STUDENT 1`) |
+| **Text Lower Case** | `=LOWER(B2)` | Text | Converts student name to lowercase (`student 1`) |
+| **Student Lookup** | `=VLOOKUP(26, A2:F21, 2, FALSE)` | VLOOKUP | Fetches student name dynamically based on ID |
+| **Dynamic Reference** | `=INDIRECT(A33)` | INDIRECT | Dynamically references cell address stored in A33 (`Student 4`) |
+| **Round Number** | `=ROUND(C2, 0)` | Math | Rounds off numerical scores |
+| **Ceiling Function** | `=CEILING(C2, 10)` | Math | Rounds number UP to nearest multiple |
+| **Floor Function** | `=FLOOR(C2, 10)` | Math | Rounds number DOWN to nearest multiple |
+| **Filter Top Performers**| `=FILTER(A2:F21, C2:C21>80)` | Dynamic Array | Extracts complete list of top-performing students |
+| **Date Difference** | `=DATEDIF(Start_Date, End_Date, "d")` | Date & Time | Calculates difference in days between two enrollment dates |
+| **Age Calculation** | `=INT((TODAY() - DOB)/365.25)` | Date & Time | Computes age from Date of Birth |
+
+---
+
+### 2. 💼 Sheet 2: Sales Data
+
+| Task / Analysis | Formula Applied | Function Category | Output / Description |
+| :--- | :--- | :--- | :--- |
+| **Discount Tier** | `=IF(E2>=20000, "20% Discount", "10% Discount")` | Logical IF | Assigns discount tiers based on Sales Amount |
+| **Eligibility Check** | `=IF(AND(E2>=10000, C2="South"), "Eligible", "Not Eligible")` | IF + AND | Determines offer eligibility based on Region & Amount |
+| **2D Matrix Summation** | `=SUMIFS($E$2:$E$21, $B$2:$B$21, $A26, $C$2:$C$21, B$25)` | SUMIFS Matrix | Creates cross-tabulation table for Total Sales by Product & Region |
+| **VLOOKUP Price Search**| `=VLOOKUP(2003, A2:E21, 5, FALSE)` | VLOOKUP | Retrieves product price using Sales ID (`₹ 23,672.00`) |
+| **2D Lookup Search** | `=INDEX(E2:E21, MATCH("Person 4", D2:D21, 0))` | INDEX + MATCH | Finds sales value for specific salesperson without column limits |
+| **Position Search** | `=XMATCH("Mouse", B2:B21)` | Lookup & Pos | Finds relative row position of product in list |
+| **Dynamic Cell Range** | `=INDIRECT("E" & 3)` | INDIRECT | Dynamically fetches sales amount from row index |
+| **Dynamic Offset Range**| `=SUM(OFFSET(E2, 0, 0, 5, 1))` | OFFSET | Creates dynamic moving range for sales trend calculations (`96800`) |
+| **Flexible Search** | `=XLOOKUP("Person 4", D2:D21, E2:E21)` | XLOOKUP | Modern flexible search for salesperson performance (`5264`) |
+| **Sales Date Diff** | `=DATEDIF(F2, F3, "d")` | Date & Time | Calculates interval between transaction dates |
+
+---
+
+### 3. 👥 Sheet 3: Employee Data
+
+| Task / Analysis | Formula Applied | Function Category | Output / Description |
+| :--- | :--- | :--- | :--- |
+| **Dynamic Dept Lookup** | `=INDEX(C2:C21, MATCH(3003, A2:A21, 0))` | INDEX + MATCH | Looks up employee department dynamically (`HR`) |
+| **Salary Fetching** | `=XLOOKUP(3001, A2:A21, D2:D21)` | XLOOKUP | Fetches exact salary for Employee ID (`86766`) |
+| **Tenure Calculation** | `=DATEDIF(E2, TODAY(), "Y")` | Date & Time | Calculates total completed years of service |
+| **Joining Date Gap** | `=DATEDIF(E2, E3, "d")` | Date & Time | Computes difference in days between two employee joining dates (`8`) |
+| **Indirect Emp Search** | `=INDIRECT(A25)` | INDIRECT | Dynamically references cell range (`Employee 4`) |
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🖼️_WORKBOOK_SCREENSHOTS-OUTPUT-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Screenshots Sticker" />
+</p>
+
 ## 🗂️ Topics Covered
 
 * **References & Formatting:** Relative & Absolute Cell References, Custom Data Formatting, and Data Input.
