@@ -9,6 +9,12 @@
 
 ---
 
+### 🎬 Full Project Walkthrough Video
+
+Watch the step-by-step video demonstration of the workbook, formula explanations, and dynamic outputs:
+
+[![Watch Project Demo](https://img.shields.io/badge/▶️_Watch_Video_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]
+
 ## 📌 Overview
 
 **Fundamental Booster** is structured around practical Excel operations, ranging from basic cell formatting to advanced formulas like `XLOOKUP`, `INDEX/MATCH`, and multi-conditional criteria (`SUMIFS`, `COUNTIFS`). This repository contains templates and exercises built to sharpen analytical skills using real-world data simulations.
