@@ -76,25 +76,33 @@ Below is the complete reference of all formulas, functions, and logic implemente
 | **Joining Date Gap** | `=DATEDIF(E2, E3, "d")` | Date & Time | Computes difference in days between two employee joining dates (`8`) |
 | **Indirect Emp Search** | `=INDIRECT(A25)` | INDIRECT | Dynamically references cell range (`Employee 4`) |
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🖼️_WORKBOOK_SCREENSHOTS-OUTPUT-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Screenshots Sticker" />
+<p align="left">
+  <img src="https://img.shields.io/badge/📊_PROJECT_PREVIEW-SCREENSHOTS-2E7D32?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Screenshots Badge" />
 </p>
 
 ### 🎓 Students Grade Worksheet
 
-| 📊 Worksheet Output | 🧮 Formulas View |
-| :---: | :---: |
-| <img width="868" height="492" alt="Students Grade Output" src="https://github.com/user-attachments/assets/1987eaa7-a660-4cf0-9d21-756a9cf77563" /> | <img width="473" height="316" alt="Students Grade Formulas" src="https://github.com/user-attachments/assets/9ee05448-f1f6-4a29-bba3-78bf5bdfdc77" /> |
+#### 📊 Worksheet Output
+<img src="https://github.com/user-attachments/assets/1987eaa7-a660-4cf0-9d21-756a9cf77563" width="100%" alt="Students Grade Output" />
+
+
+<img src="https://github.com/user-attachments/assets/9ee05448-f1f6-4a29-bba3-78bf5bdfdc77" width="100%" alt="Students Grade Formulas" />
+
+---
 
 ### 💼 Sales Data Worksheet
 
-| 📊 Output View | 🧮 Formulas View |
-| :---: | :---: |
-| <img width="1060" height="432" alt="Sales Data Output" src="https://github.com/user-attachments/assets/542a7c63-d6df-470e-8192-5e32b159285a" /> | <img width="1078" height="274" alt="Sales Data Formulas" src="https://github.com/user-attachments/assets/44a0adc4-7318-45b8-b0c1-05096c6ca5c8" /> |
+#### 📊 Output View
+<img src="https://github.com/user-attachments/assets/542a7c63-d6df-470e-8192-5e32b159285a" width="100%" alt="Sales Data Output" />
+
+<img src="https://github.com/user-attachments/assets/44a0adc4-7318-45b8-b0c1-05096c6ca5c8" width="100%" alt="Sales Data Formulas" />
+
+---
 
 ### 👥 Employee Data Worksheet
 
-<img width="1001" height="462" alt="Employee Data Output" src="https://github.com/user-attachments/assets/1f74a368-4902-4e1a-b0f5-d844028e7fff" />
+#### 📊 Output View
+<img src="https://github.com/user-attachments/assets/1f74a368-4902-4e1a-b0f5-d844028e7fff" width="100%" alt="Employee Data Output" />
 
 ## 🗂️ Topics Covered
 
@@ -136,15 +144,3 @@ The workbook contains the following structured sheets:
 6. **Advanced Filtering:** Use the modern `FILTER` function to isolate and extract records (e.g., students scoring above 80).
 
 ---
-
-## 🚀 Getting Started
-
-1. Download or clone this repository to your local machine.
-2. Open `Fundamental_Booster.xlsx` using Microsoft Excel or Google Sheets.
-3. Complete the required worksheets by writing the designated formulas in their respective cells.
-
----
-
-## 🤝 Contributing
-
-Contributions, feedback, and suggestions to improve these exercises are always welcome! Feel free to fork this repository and submit a pull request.
