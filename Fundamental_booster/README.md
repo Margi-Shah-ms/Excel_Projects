@@ -9,7 +9,7 @@
 
 ---
 
-### 🎬 Full Project Walkthrough Video
+## 🎬 Full Project Walkthrough Video
 
 Watch the step-by-step video demonstration of the workbook, formula explanations, and dynamic outputs:
 
@@ -21,7 +21,7 @@ Watch the step-by-step video demonstration of the workbook, formula explanations
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/🧮_FORMULAS_&_EXPRESSIONS-APPLIED-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Formulas Sticker" />
 </p>
 
