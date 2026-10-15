@@ -36,6 +36,7 @@ Below is the complete reference of all formulas, functions, and logic implemente
 | **Average Score** | `=AVERAGE(C2:E2)` | Statistical | Calculates overall subject average per student |
 | **Conditional Average** | `=AVERAGEIF(L2:L21, ">60")` | Conditional Avg | Calculates average score for students scoring above 60 |
 | **Count Above 60** | `=COUNTIF(C2:C21, ">60")` | COUNTIF | Counts students with Math score > 60 |
+| **Extract First Name** | `=LEFT(B2, FIND(" ", B2) - 1)` | Text Manipulation | Extracts first name before space (`Student`) |
 | **Text Upper Case** | `=UPPER(B2)` | Text | Converts student name to uppercase (`STUDENT 1`) |
 | **Text Lower Case** | `=LOWER(B2)` | Text | Converts student name to lowercase (`student 1`) |
 | **Student Lookup** | `=VLOOKUP(26, A2:F21, 2, FALSE)` | VLOOKUP | Fetches student name dynamically based on ID |
