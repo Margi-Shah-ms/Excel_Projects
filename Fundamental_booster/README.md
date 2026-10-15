@@ -13,7 +13,7 @@
 
 Watch the step-by-step video demonstration of the workbook, formula explanations, and dynamic outputs:
 
-[![Watch Project Demo](https://img.shields.io/badge/▶️_Watch_Video_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)]
+[![Watch Project Demo](https://img.shields.io/badge/▶️_Watch_Video_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/19mzyCX53TV2cVN2BGgCF5LlYfVTCicUG/view?usp=sharing)
 
 ## 📌 Overview
 
@@ -109,7 +109,8 @@ Below is the complete reference of all formulas, functions, and logic implemente
 ### 👥 Employee Data Worksheet
 
 #### 📊 Output View
-<img src="https://github.com/user-attachments/assets/1f74a368-4902-4e1a-b0f5-d844028e7fff" width="100%" alt="Employee Data Output" />
+<img src="https://github.com/user-attachments/assets/3fdcc294-b654-4f15-a9ca-8efe2c6d33d2" width="100%" alt="Employee Data Output" />
+
 
 ## 🗂️ Topics Covered
 
