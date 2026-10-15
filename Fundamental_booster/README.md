@@ -77,7 +77,7 @@ Below is the complete reference of all formulas, functions, and logic implemente
 | **Indirect Emp Search** | `=INDIRECT(A25)` | INDIRECT | Dynamically references cell range (`Employee 4`) |
 
 <p align="left">
-  <img src="https://img.shields.io/badge/📊_PROJECT_PREVIEW-SCREENSHOTS-2E7D32?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Screenshots Badge" />
+  <img src="https://img.shields.io/badge/📊_PROJECT_PREVIEW-SCREENSHOTS-2E7D32?style=flat-square&logo=microsoft-excel&logoColor=white" height="40" alt="Screenshots Badge" />
 </p>
 
 ### 🎓 Students Grade Worksheet
