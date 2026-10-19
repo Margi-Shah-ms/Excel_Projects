@@ -13,7 +13,7 @@
 
 Watch the step-by-step video demonstration of the workbook, formula explanations, and dynamic outputs:
 
-[![Watch Project Demo](https://img.shields.io/badge/▶️_Watch_Video_Demo-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/19mzyCX53TV2cVN2BGgCF5LlYfVTCicUG/view?usp=sharing)
+[![Watch Project Demo] : (https://drive.google.com/file/d/19mzyCX53TV2cVN2BGgCF5LlYfVTCicUG/view?usp=sharing)
 
 ## 📌 Overview
 
