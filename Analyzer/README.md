@@ -8,7 +8,8 @@
 An end-to-end data analytics project performing descriptive statistics, linear regression, sensitivity analysis, pivot table reporting, and executive KPI dashboarding on retail transaction datasets using Excel / WPS Office.
 
 ---
-![Video Demo](https://img.shields.io/badge/🎥_Video_Demo-8A2BE2?style=for-the-badge&logoColor=white)  https://drive.google.com/file/d/1V6DzIC5aJmpwZ3SmEzo_ZQAHmtDAI-sX/view?usp=sharing
+![Video Demo](https://img.shields.io/badge/🎥_Video_Demo-8A2BE2?style=for-the-badge&logoColor=white)  
+https://drive.google.com/file/d/1V6DzIC5aJmpwZ3SmEzo_ZQAHmtDAI-sX/view?usp=sharing
 
 ## 🎯 Executive Overview
 
@@ -31,7 +32,7 @@ The spreadsheet leverages a combination of key formulas and automated Excel func
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header&text=Output%20Screenshots&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=9,12,20&height=110&section=header&text=Output%20Screenshots&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 <img width="666" height="541" alt="image" src="https://github.com/user-attachments/assets/ee52b52b-5ec2-4ccd-8c44-93ed13176395" />
 <img width="791" height="586" alt="image" src="https://github.com/user-attachments/assets/e8eb4b35-50fd-49d9-8ed1-84a1cf379989" />
