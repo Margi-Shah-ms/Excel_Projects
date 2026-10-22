@@ -8,7 +8,7 @@
 An end-to-end data analytics project performing descriptive statistics, linear regression, sensitivity analysis, pivot table reporting, and executive KPI dashboarding on retail transaction datasets using Excel / WPS Office.
 
 ---
-![Video Demo](https://img.shields.io/badge/🎥_Video_Demo-8A2BE2?style=for-the-badge&logoColor=white)  
+![Video Demo](https://img.shields.io/badge/🎥_Video_Demo-8A2BE2?style=for-the-badge&logoColor=white)  https://drive.google.com/file/d/1V6DzIC5aJmpwZ3SmEzo_ZQAHmtDAI-sX/view?usp=sharing
 
 ## 🎯 Executive Overview
 
