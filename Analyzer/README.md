@@ -35,7 +35,7 @@ The spreadsheet leverages a combination of key formulas and automated Excel func
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&customColorList=9,12,20&height=110&section=header&text=Output%20Screenshots&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 <img width="666" height="541" alt="image" src="https://github.com/user-attachments/assets/ee52b52b-5ec2-4ccd-8c44-93ed13176395" />
-<img width="791" height="586" alt="image" src="https://github.com/user-attachments/assets/e8eb4b35-50fd-49d9-8ed1-84a1cf379989" />
+<img width="746" height="590" alt="image" src="https://github.com/user-attachments/assets/03386976-dc99-4eb5-adf5-1892cf0c2078" />
 <img width="332" height="248" alt="image" src="https://github.com/user-attachments/assets/0da704eb-e014-4d40-979e-731ed9bad2fd" />
 <img width="829" height="590" alt="image" src="https://github.com/user-attachments/assets/a935a53b-1a31-491c-be34-5cd73006c184" />
 <img width="741" height="582" alt="image" src="https://github.com/user-attachments/assets/5facddfa-b0ea-47b0-ba4b-18ad8648e660" />
