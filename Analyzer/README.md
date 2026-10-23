@@ -36,7 +36,7 @@ The spreadsheet leverages a combination of key formulas and automated Excel func
 </p>
 <img width="666" height="541" alt="image" src="https://github.com/user-attachments/assets/ee52b52b-5ec2-4ccd-8c44-93ed13176395" />
 <img width="746" height="590" alt="image" src="https://github.com/user-attachments/assets/03386976-dc99-4eb5-adf5-1892cf0c2078" />
-<img width="332" height="248" alt="image" src="https://github.com/user-attachments/assets/0da704eb-e014-4d40-979e-731ed9bad2fd" />
+<img width="458" height="338" alt="image" src="https://github.com/user-attachments/assets/3a9c8d50-14ca-444b-bad1-ebbff8c21549" />
 <img width="829" height="590" alt="image" src="https://github.com/user-attachments/assets/a935a53b-1a31-491c-be34-5cd73006c184" />
 <img width="741" height="582" alt="image" src="https://github.com/user-attachments/assets/5facddfa-b0ea-47b0-ba4b-18ad8648e660" />
 <img width="1222" height="552" alt="image" src="https://github.com/user-attachments/assets/809a3864-51a7-48fc-a99e-e2fe4fa8dd46" />
