@@ -35,6 +35,15 @@ The spreadsheet leverages a combination of key formulas and automated Excel func
   <img src="https://capsule-render.vercel.app/api?type=waving&color=004B50&height=110&section=header&text=Output%20Screenshots&fontSize=26&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
+<img width="953" height="550" alt="image" src="https://github.com/user-attachments/assets/1ab2d27e-2943-49b8-bdc1-a5b247062cdc" />
+<img width="789" height="539" alt="image" src="https://github.com/user-attachments/assets/30c3b000-ef5f-4d3d-bf91-6d7bd0e3800a" />
+<img width="836" height="535" alt="image" src="https://github.com/user-attachments/assets/4fbfea3c-0c0e-45e5-9e01-e86ae08bbdb3" />
+<img width="1134" height="402" alt="image" src="https://github.com/user-attachments/assets/a9d7c86a-8b59-42f0-a234-42b2f9847539" />
+<img width="800" height="467" alt="image" src="https://github.com/user-attachments/assets/988f8e62-3614-405f-a2fe-870e11758c73" />
+<img width="1222" height="562" alt="image" src="https://github.com/user-attachments/assets/801c6a3c-6360-4f7e-8395-c8643e9fdbad" />
+<img width="614" height="546" alt="image" src="https://github.com/user-attachments/assets/abbd7406-fe4f-47d0-8e19-9b27dcd3f451" />
+<img width="848" height="543" alt="image" src="https://github.com/user-attachments/assets/c47f9dd1-6903-47c9-b0f0-b82adbb637aa" />
+
 
 
 ## ⚙️ Key Technical Features & Workflows
