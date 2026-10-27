@@ -9,6 +9,7 @@ An end-to-end data analytics project performing descriptive statistics, linear r
 
 ---
 ![Video Demo](https://img.shields.io/badge/🎥_Video_Demo-8A2BE2?style=for-the-badge&logoColor=white)  
+https://drive.google.com/file/d/1Jh9v_mG9FUCzblqrmimzkV3Ge39VeZ-x/view?usp=sharing
 
 
 ## 🎯 Executive Overview
