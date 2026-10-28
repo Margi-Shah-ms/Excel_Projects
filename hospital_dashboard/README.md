@@ -4,6 +4,8 @@
 This repository / project showcases an interactive **Hospital Management & Analytics Dashboard** built in Microsoft Excel (`ShahMargi_ExcelDashboard.xlsx`). The dashboard tracks critical healthcare metrics, patient admissions, department-wise performance, and operational KPIs, providing hospital administrators with actionable insights through automated summaries, pivot tables, and dynamic visual charts.
 
 ---
+## VIDEO LINK: 
+https://drive.google.com/file/d/15CX0_NLyKl5pTsON6ughpiQ-BPxClBfA/view?usp=sharing
 
 ## 🏥 Key Metrics & Data Tracked
 - **Patient Demographics & Admissions:** Tracking patient inflow, discharge status, length of stay, and age/gender distributions.
