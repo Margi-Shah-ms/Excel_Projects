@@ -10,8 +10,6 @@ https://drive.google.com/file/d/15CX0_NLyKl5pTsON6ughpiQ-BPxClBfA/view?usp=shari
 ## 🏥 Key Metrics & Data Tracked
 - **Patient Demographics & Admissions:** Tracking patient inflow, discharge status, length of stay, and age/gender distributions.
 - **Departmental Performance:** Emergency, Cardiology, Orthopedics, Pediatrics, ICU, and General Surgery metrics.
-- **Financial & Operational KPIs:** Revenue generated per department, bed occupancy rates, and treatment costs.
-
 ---
 
 ## 📊 Structure of the Workbook
@@ -22,15 +20,13 @@ The workbook is structured into logical layers to ensure clean data management a
    - Houses aggregated pivot tables and summary metrics that power the visual charts on the main dashboard.
 3. **`Raw Data` Sheet:** 
    - The primary database containing granular, row-level hospital transactional records (Patient IDs, Dates, Departments, Doctors, Status, and Costs).
-
 ---
 
 ## 🧮 Formulas Used
 To automate calculations, summaries, and lookups across the workbook, standard and advanced Excel functions are implemented:
 - **Aggregation & Conditional Counting/Summing:** `SUMIFS`, `COUNTIFS`, `AVERAGEIFS` (used extensively in summary blocks to calculate department-wise revenue, patient counts, and average wait times).
 - **Lookups & Data Retrieval:** `XLOOKUP` / `VLOOKUP` and `INDEX/MATCH` for fetching patient records and doctor details dynamically.
-- **Logical & Date Handling:** `IF`, `AND`, `OR`, and `DATEDIF` for calculating patient stay lengths and billing flags.
-
+- **Logical & Date Handling:** `IF`
 ---
 
 ## 📈 Charts & Visualizations
@@ -38,7 +34,6 @@ The dashboard incorporates a variety of clean, professionally formatted charts t
 - **Bar / Column Charts:** Comparing patient volume and revenue across different medical departments.
 - **Line Charts:** Tracking patient admission trends over time (monthly/weekly analysis).
 - **Donut / Pie Charts:** Showing bed occupancy percentage and breakdown of patient categories.
-- **KPI Cards:** Highlight metrics like Total Patients, Average Length of Stay, and Total Revenue.
 
 ---
 
